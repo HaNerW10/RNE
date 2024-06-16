@@ -1,2 +1,3 @@
-# nougat
-SAs
+# nougat redesigned emojis
+
+initial release
